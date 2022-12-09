@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptoTracker-in-react/static/css/main.4d8f4330.css",
+    "main.js": "/cryptoTracker-in-react/static/js/main.ca79361e.js",
+    "static/media/iphone.png": "/cryptoTracker-in-react/static/media/iphone.080029ada53f0cd57453.png",
+    "static/media/gradient.png": "/cryptoTracker-in-react/static/media/gradient.12a666ed10b3b442b534.png",
+    "index.html": "/cryptoTracker-in-react/index.html",
+    "main.4d8f4330.css.map": "/cryptoTracker-in-react/static/css/main.4d8f4330.css.map",
+    "main.ca79361e.js.map": "/cryptoTracker-in-react/static/js/main.ca79361e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d8f4330.css",
+    "static/js/main.ca79361e.js"
+  ]
+}
